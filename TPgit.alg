@@ -13,7 +13,7 @@
         <item algoitem="tot2 EST_DU_TYPE NOMBRE" code="1#NOMBRE#tot2"/>
     </item>
     <item algoitem="DEBUT_ALGORITHME" code="101#debutalgo">
-        <item algoitem="x PREND_LA_VALEUR 3" code="5#x#3#pasliste"/>
+        <item algoitem="x PREND_LA_VALEUR 6" code="5#x#3#pasliste"/>
         <item algoitem="tot PREND_LA_VALEUR 2*x" code="5#tot#2*x#pasliste"/>
         <item algoitem="tot2 PREND_LA_VALEUR tot^2" code="5#tot2#tot^2#pasliste"/>
         <item algoitem="AFFICHER &quot;La valeur de tot est&quot;" code="4#La valeur de tot est#1"/>
